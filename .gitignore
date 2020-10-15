@@ -2,3 +2,9 @@
 .vs/
 bin/
 bin-int/
+T_Engine.sln
+Sandbox/Sandbox.vcxproj
+Sandbox/Sandbox.vcxproj.user
+T_Engine/T_Engine.vcxproj
+T_Engine/T_Engine.vcxproj.filters
+T_Engine/T_Engine.vcxproj.user
