@@ -1,6 +1,6 @@
 #include <T_Engine.h>
 
-class Sandbox : public T_Engine::Application 
+class Sandbox : public T_Engine::Application
 {
 
 public:
